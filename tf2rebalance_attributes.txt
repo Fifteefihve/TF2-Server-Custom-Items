@@ -1,0 +1,196 @@
+"tf2rebalance_attributes"
+{	
+	"1098"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"392"
+			"value"	"1.1"
+		}
+		
+	}
+
+	"225"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"35"
+			"value"	"10"
+		}
+
+		"attribute2"
+		{
+			"id"	"34"
+			"value"	"0"
+		}
+
+		"attribute3"
+		{
+			"id"	"158"
+			"value"	"15"
+		}
+		
+	}
+
+	"574"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"218"
+			"value"	"1"
+		}
+		
+	}
+
+	"772"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"419"
+			"value"	"0"
+		}
+		
+	}
+
+	"414"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"4" //clip size
+			"value"	"1.2"
+		}
+		
+		"attribute2"
+		{
+			"id"	"97" // reload time
+			"value"	"0.9"
+		}
+
+		"attribute3"
+		{
+			"id"	"97" // blast damage
+			"value"	"0.8"
+		}
+	}
+
+	"128"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"736" //speedboost on kill
+			"value"	"5"
+		}
+		
+	}
+
+	"1101"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"812" //increased air control when blast jumping
+			"value"	"10"
+		}
+		
+	}
+
+	"160"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"2" // damage bonus
+			"value"	"2"
+		}
+
+		"attribute2"
+		{
+			"id"	"106" // accuracy
+			"value"	"1.3"
+		}
+
+		"attribute3"
+		{
+			"id"	"5" // slower firing speed
+			"value"	"1.7"
+		}
+
+		"attribute4"
+		{
+			"id"	"97" // slower reload speed
+			"value"	"1.2"
+		}
+		
+	}
+
+	"307"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"2" //damage bonus
+			"value"	"1.2"
+		}
+		
+	}
+
+	"228"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"2" //damage bonus
+			"value"	"1.4"
+		}
+
+		"attribute2"
+		{
+			"id"	"3" //less clip size
+			"value"	"0.3"
+		}
+
+		"attribute3"
+		{
+			"id"	"104" //rocket slower
+			"value"	"0.8"
+		}
+
+		"attribute4"
+		{
+			"id"	"96" //reload speed slower
+			"value"	"1.2"
+		}
+
+		"attribute5"
+		{
+			"id"	"741" // hit on healtrh
+			"value"	"0"
+		}
+		
+	}
+
+	"460"
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"630" // zoom
+			"value"	"1"
+		}
+
+		"attribute2"
+		{
+			"id"	"2" // zoom
+			"value"	"1"
+		}
+		
+	}
+	
+}
+
