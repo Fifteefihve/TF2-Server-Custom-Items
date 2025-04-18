@@ -191,6 +191,28 @@
 		}
 		
 	}
+
+	"30666" //capper
+	{
+		"keepattribs" "1"
+		"attribute1"
+		{
+			"id"	"1" // damage penalty
+			"value"	"0.4"
+		}
+
+		"attribute2"
+		{
+			"id"	"6" //faster firing speed
+			"value"	"0.5"
+		}
+
+		"attribute3"
+		{
+			"id"	"4" //larger clip size
+			"value"	"3"
+		}
+	}
 	
 }
 
