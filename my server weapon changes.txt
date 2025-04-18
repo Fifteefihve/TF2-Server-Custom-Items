@@ -1,4 +1,5 @@
 scout-----------------------
+baby faces blaster
 removed double jump boost meter penalty
 
 soldier-----------------------
