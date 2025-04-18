@@ -1,0 +1,29 @@
+scout-----------------------
+removed double jump boost meter penalty
+
+soldier-----------------------
+liberty launcher
+20% faster reload time
+-30% blast jumping damage
+
+base jumper
+more air control
+
+equalizer
+move speed on kill
+
+demo---------
+caber
+20% damage bonus
+
+sniper-----------------------
+classic +10% body shot bonus
+
+
+spy-------------------------
+your eternal reward
++10% cloak recharge rate
++10 cloak on kill
+
+wanga prick
+marked for death on hit
