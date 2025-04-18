@@ -13,9 +13,15 @@ more air control
 equalizer
 move speed on kill
 
-demo---------
+demo------------------------
 caber
 20% damage bonus
+
+engineer---------------------
+c.a.p.p.e.r
++200% clip size
++50% faster firing speed
+-60% Damage penalty
 
 sniper-----------------------
 classic +10% body shot bonus
